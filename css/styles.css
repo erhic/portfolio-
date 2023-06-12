@@ -1445,3 +1445,14 @@ a:hover {
 	/* end of extra pages */
 }
 /* end of min-width 1200px */
+
+/* //media query */
+@media screen and (min-width: 600px) {
+  header {
+    /* Apply some styles */
+		margin-top: -80px;
+  }
+	#heroimg{
+		margin-top: 45px;
+	}
+}
