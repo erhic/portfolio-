@@ -102,12 +102,12 @@ h6 {
 }
 
 .p-large {
-	font-size: 1.125rem;
+	font-size: 1.25rem;
 	line-height: 1.75rem;
 }
 
 .p-small {
-	font-size: 0.875rem;
+	font-size: 1.275rem;
 	line-height: 1.5rem;
 }
 
@@ -119,6 +119,7 @@ h6 {
 	font-weight: 700;
 	font-size: 1.25rem;
 	line-height: 1.75rem;
+
 }
 
 .li-space-lg li {
@@ -145,13 +146,13 @@ a:hover {
 
 .read-more {
 	font-weight: 600;
-	font-size: 0.875rem;
+	font-size: 1.175rem;
 	line-height: 1.5rem;
 }
 
 .read-more .fas {
 	margin-left: 0.625rem;
-	font-size: 1rem;
+	font-size: 1.75rem;
 	vertical-align: -8%;
 }
 
@@ -161,13 +162,16 @@ a:hover {
 
 .bg-gray {
 	background-color: #fcfafb;
+	font-size: 1.25rem;
+	line-height: 1.75rem;
+	word-spacing: 2%;
 }
 
 .section-title {
 	margin-bottom: 0.5rem;
 	color: #ef473d;
 	font-weight: 600;
-	font-size: 0.875rem;
+	font-size: 1.175rem
 }
 
 .btn-solid-reg {
@@ -178,7 +182,7 @@ a:hover {
 	background-color: #0092ff;
 	color: #ffffff;
 	font-weight: 600;
-	font-size: 0.875rem;
+	font-size: 1.175rem;
 	line-height: 0;
 	text-decoration: none;
 	transition: all 0.2s;
@@ -198,7 +202,7 @@ a:hover {
 	background-color: #0092ff;
 	color: #ffffff;
 	font-weight: 600;
-	font-size: 0.875rem;
+	font-size: 1.175rem;
 	line-height: 0;
 	text-decoration: none;
 	transition: all 0.2s;
@@ -218,7 +222,7 @@ a:hover {
 	background-color: #0092ff;
 	color: #ffffff;
 	font-weight: 600;
-	font-size: 0.875rem;
+	font-size:1.175rem;;
 	line-height: 0;
 	text-decoration: none;
 	transition: all 0.2s;
@@ -238,7 +242,7 @@ a:hover {
 	background-color: transparent;
 	color: #ef473d;
 	font-weight: 600;
-	font-size: 0.875rem;
+	font-size:1.175rem;
 	line-height: 0;
 	text-decoration: none;
 	transition: all 0.2s;
@@ -258,7 +262,7 @@ a:hover {
 	background-color: transparent;
 	color: #ef473d;
 	font-weight: 600;
-	font-size: 0.875rem;
+	font-size:1.175rem;
 	line-height: 0;
 	text-decoration: none;
 	transition: all 0.2s;
@@ -278,7 +282,7 @@ a:hover {
 	background-color: transparent;
 	color: #ef473d;
 	font-weight: 600;
-	font-size: 0.875rem;
+	font-size:1.175rem;
 	line-height: 0;
 	text-decoration: none;
 	transition: all 0.2s;
@@ -304,7 +308,7 @@ a:hover {
 	border: 1px solid #cbcbd1;
 	border-radius: 8px;
 	background-color: #ffffff;
-	font-size: 0.875rem;
+	font-size:1.175rem;
 	line-height: 1.5rem;
 	-webkit-appearance: none; /* removes inner shadow on form inputs on ios safari */
 }
@@ -334,7 +338,7 @@ a:hover {
 	background-color: #0092ff;
 	color: #ffffff;
 	font-weight: 600;
-	font-size: 0.875rem;
+	font-size:1.175rem;
 	line-height: 0;
 	cursor: pointer;
 	transition: all 0.2s;
@@ -353,25 +357,25 @@ a:hover {
 .navbar {
 	background-color: #fcfafb;
 	font-weight: 600;
-	font-size: 0.875rem;
+	font-size:1.175rem;
 	line-height: 0.875rem;
 	box-shadow: 0 1px 6px 0 rgba(0, 0, 0, 0.05);
 }
 
 .navbar .navbar-brand {
 	padding-top: 0.25rem;
-	padding-bottom: 0.25rem;
+	padding-bottom: 0.20rem;
 }
 
 .navbar .logo-image img {
     width: 126px;
-	height: 32px;
+	height: 22px;
 }
 
 .navbar .logo-text {
 	color: #223150;
 	font-weight: 700;
-	font-size: 1.875rem;
+	font-size: 1.175rem;
 	line-height: 1rem;
 	text-decoration: none;
 }
@@ -444,7 +448,7 @@ a:hover {
 	padding-bottom: 0.625rem;
 	color: #5e6576;
 	font-weight: 600;
-	font-size: 0.875rem;
+	font-size:1.175rem;
 	line-height: 0.875rem;
 	text-decoration: none;
 }
@@ -466,7 +470,7 @@ a:hover {
 .navbar .navbar-toggler {
 	padding: 0;
 	border: none;
-	font-size: 1.25rem;
+	font-size: 1.175rem;
 }
 
 
@@ -530,7 +534,7 @@ a:hover {
 .cards-1 .card-icon .fas,
 .cards-1 .card-icon .far {
 	color: #0092ff;
-	font-size: 2rem;
+	font-size:1.175rem;
 	line-height: 66px;
 }
 
@@ -562,6 +566,8 @@ a:hover {
 
 .cards-1 .card-body p {
 	margin-bottom: 1.125rem;
+	font-size: 1.25rem;
+	line-height: 1.75rem;
 }
 
 .cards-1 .read-more {
@@ -592,6 +598,9 @@ a:hover {
 
 .basic-1 p {
 	margin-bottom: 2rem;
+	font-size: 1.25rem;
+	line-height: 1.75rem;
+	word-spacing:0.10rem
 }
 
 
@@ -696,7 +705,7 @@ a:hover {
 	color: #ffffff;
 	box-shadow: none;
 	font-weight: 700;
-	font-size: 1.25rem;
+	font-size: 1.175rem;
 	line-height: 1.625rem;
 	letter-spacing: -0.4px;
 	text-align: left;
@@ -753,7 +762,7 @@ a:hover {
 }
 
 .cards-2 .occupation {
-	font-size: 0.875rem;
+	font-size: 1.175rem;
 	line-height: 1.5rem;
 }
 
@@ -986,7 +995,7 @@ a:hover {
 }
 
 .ex-basic-1 .list-unstyled .fas {
-	font-size: 0.375rem;
+	font-size: 1.175rem;
 	line-height: 1.625rem;
 }
 
