@@ -1456,3 +1456,17 @@ a:hover {
 		margin-top: 45px;
 	}
 }
+/* .image-fluid{
+	background: url(../images/Group\ 7.png)center/cover no-repeat;
+
+
+}
+.image-fluid::before{
+	content: '';
+	position: absolute;
+	background: url(../splash.png)center/cover no-repeat;
+	width: 100%;
+	/* height: 100%; 
+	mix-blend-mode: screen;  
+} */
+
