@@ -1470,3 +1470,6 @@ a:hover {
 	mix-blend-mode: screen;  
 } */
 
+.img, .hover-effect{
+	object-fit: contain!important;
+}
